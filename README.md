@@ -1,6 +1,6 @@
 ### Hi there, I'm Hugo - aka [@user_ops][twitter] <img align="left" alt="cat" width="22px" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-## I'm a Husband, Sysadmin, Gamer, Lego fan and Quadcopter flier.!
+## I'm a Husband, Site Reliability Engineer, Gamer, Lego fan and Quadcopter flier.!
 - 🔭 I’m currently working on my homelab automation!
 - 🌱 I’m currently learning all the things 🤣
 - 🥅 2020 Goals: Learn more things about Devops

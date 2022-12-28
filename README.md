@@ -1,9 +1,9 @@
 ### Hi there, I'm Hugo - aka [@user_ops][twitter] <img align="left" alt="cat" width="22px" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-## I'm a Husband, Site Reliability Engineer, Gamer, Lego fan and Quadcopter flier.!
-- 🔭 I’m currently working on a engineering platform using open source components. 
+## Building frameworks that enable people and teams to work efficiently #SRE #Platform Engineering.!
+- 🔭 I’m currently working on a engineering framework using open source components. 
 - 🌱 Working on expanding my knowledge of platform engineering and infra as code 🤣
-- 🥅 2022 Goals: Create a engineering platform
+- 🥅 2023 Goals: Create a engineering framework for startups.
 - ⚡ Fun fact: I love to build things with legos
 
 ### Connect with me:

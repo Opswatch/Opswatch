@@ -33,6 +33,6 @@
 
 ---
 
-[website]: https://userops.me
+[website]: https://blog.ops.userops.me
 [twitter]: https://twitter.com/user_ops
 [linkedin]: https://www.linkedin.com/in/londonhugopinheiro

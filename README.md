@@ -3,7 +3,7 @@
 ## Building frameworks that enable people and teams to work efficiently #SRE #Platform Engineering.!
 - 🔭 I’m currently working on a engineering framework using open source components. 
 - 🌱 Working on expanding my knowledge of platform engineering and infra as code 🤣
-- 🥅 2023 Goals: Create a engineering framework for startups.
+- 🥅 2025 Goals: Work on the summit system framework.
 - ⚡ Fun fact: I love to build things with legos
 
 ### Connect with me:

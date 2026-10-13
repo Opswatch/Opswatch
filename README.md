@@ -1,16 +1,15 @@
 ### Hi there, I'm Hugo - aka [@KintaCollective][twitter] <img align="left" alt="cat" width="22px" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
-## Building frameworks that enable people and teams to work efficiently #SRE #Platform Engineering.!
+## Building architecture patterns and agent skills to enable the coming personal agent microcloud, focusing on edge compute #SRE #Platform Engineering.!
 - 🔭 I’m currently working on a engineering framework using open source components. 
-- 🌱 Working on expanding my knowledge of platform engineering and infra as code 🤣
-- 🥅 2025 Goals: Work on the summit system framework.
+- 🌱 Working on expanding my knowledge of agentic collectives 🤣
 - ⚡ Fun fact: I love to build things with legos
 
 ### Connect with me:
 
-[<img align="left" alt="blog.ops.userops.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="user_ops | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="user_ops | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://works.ops.userops.me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="KintaCollective | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://ca.linkedin.com/in/londonhugopinheiro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -33,6 +32,6 @@
 
 ---
 
-[website]: https://blog.ops.userops.me
-[twitter]: https://twitter.com/user_ops
+[website]: https://works.ops.userops.me/
+[twitter]: https://twitter.com/KintaCollective
 [linkedin]: https://www.linkedin.com/in/londonhugopinheiro

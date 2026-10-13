@@ -1,4 +1,4 @@
-### Hi there, I'm Hugo - aka [@user_ops][twitter] <img align="left" alt="cat" width="22px" src="https://github.githubassets.com/images/mona-whisper.gif" />
+### Hi there, I'm Hugo - aka [@KintaCollective][twitter] <img align="left" alt="cat" width="22px" src="https://github.githubassets.com/images/mona-whisper.gif" />
 
 ## Building frameworks that enable people and teams to work efficiently #SRE #Platform Engineering.!
 - 🔭 I’m currently working on a engineering framework using open source components. 
